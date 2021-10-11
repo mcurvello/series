@@ -1,0 +1,15 @@
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.csproj.AssemblyReference.cache
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.AssemblyInfoInputs.cache
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.AssemblyInfo.cs
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.csproj.CoreCompileInputs.cache
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/bin/Debug/net5.0/series.deps.json
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/bin/Debug/net5.0/series.runtimeconfig.json
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/bin/Debug/net5.0/series.runtimeconfig.dev.json
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/bin/Debug/net5.0/series.dll
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/bin/Debug/net5.0/ref/series.dll
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/bin/Debug/net5.0/series.pdb
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.dll
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/ref/series.dll
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.pdb
+/Users/marciocurvello/Documents/Estudos/DIO/series/series/obj/Debug/net5.0/series.genruntimeconfig.cache
